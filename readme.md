@@ -1,4 +1,4 @@
-# 🧩 Modos do Copiloto (Ask, Edit, Plan, Agent e Study)
+# 🧩 Modelos do Copilot (Ask, Edit, Plan, Agent e Study)
 
 ![dio/me](https://img.shields.io/badge/dio-me-ff2d55)
 ![IA](https://img.shields.io/badge/IA-Assistente%20Inteligente-blue)
