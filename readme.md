@@ -27,7 +27,7 @@ Este repositório agrupa exemplos de prompts e fluxos para o Copilot/IA, com foc
 ---
 
 ### 2) Base
-- Objetivo: modificar código existente com base em instruções específicas.
+- Objetivo: modificar código existente com base em instruções específicas da minha própria personalidade.
 - Use para refatorar, corrigir bugs, melhorar desempenho, atualizar estilo.
 - Arquivos de prompt:
   - `prompts/prompt-base.md`
